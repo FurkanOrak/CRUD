@@ -8,7 +8,7 @@ declare var $: any;
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'sikayetvar';
+  title = 'CRUD';
 
   constructor() { }
 
